@@ -1,6 +1,12 @@
 # RandTen
 
-## Build Setup
+Generate 4 numbers from 0~9, the total sum is 10.
+
+## About GetResult
+
+Written by python3, generate all answer first.
+
+## Nuxt Project Build Setup
 
 ```bash
 # install dependencies
